@@ -1,0 +1,4 @@
+Policy Description:
+This policy audits whether the App service environment is provisioned with latest versions. Using the latest versions are recommended in order to take advantage of enhancements and new capabilities. This rules becomes non-compliant if Azure App service environment is not provisioned with latest versions.
+
+The description is ambiguous. The version mentioned here is TLS/HTTP/Runtime.
