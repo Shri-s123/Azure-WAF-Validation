@@ -8,10 +8,10 @@ Use a managed identity for enhanced authentication security
 ## COMPLIANT TEST SCENARIO
     Login to azure portal
     Create webapp
-    Enable Authentication from an Identity Provider
+    Add System/User Assigned Identity in Identity Tab
 
 ## NON COMPLIANT TEST SCENARIO
-    Delete all Identity Providers from Authentication
+    Remove all Managed Identities from Identity Tab
 
 
 
