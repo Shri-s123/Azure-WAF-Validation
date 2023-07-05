@@ -6,9 +6,7 @@ This policy audits whether SecurityContact Alert is enabled. This ensures that t
 
 ## COMPLIANT TEST SCENARIO
     Login to azure portal
-    Go to Microsoft Defender for cloud
-    Click on Environment Settings under Management in Left Menu
-    Add Email in Email Notifications
+    Go to security in AD
 
 
 
